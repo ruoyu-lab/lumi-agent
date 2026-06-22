@@ -62,3 +62,4 @@ scripts/build-native.sh
 - native 负责 CEF 生命周期、macOS 集成、持久化、权限和 AgentCore 适配。
 - AgentCore 保持在 `external/AgentCore`，产品代码通过 native 适配层使用它。
 - 用户数据写入 `$HOME/.lumi`，不写入仓库目录。# lumi-agent
+# lumi-agent
